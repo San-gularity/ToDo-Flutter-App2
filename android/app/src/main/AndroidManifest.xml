@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.naren.todo">
+    package="com.sanath.todo">
 
    <application
         android:label="Todo"
@@ -20,7 +20,7 @@
               android:resource="@style/NormalTheme"
               />
             <meta-data
-            android:name="com.naren.default_notification_icon"
+            android:name="com.sanath.default_notification_icon"
             android:resource="@drawable/app_icon" />
             <!-- Displays an Android View that continues showing the launch screen
                  Drawable until Flutter paints its first frame, then this splash
